@@ -37,7 +37,6 @@ dist/
 *.log
 *.sqlite3
 *.db
-*.json
 *.csv
 .cache/
 pip-log.txt

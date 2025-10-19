@@ -1,0 +1,53 @@
+{
+  "id": "oop-cosc-2436",
+  "title": "Object-Oriented Programming with C++",
+  "objectives": [
+    "Reinforce knowledge of Structured Programming principles.",
+    "Introduce Object-Oriented Programming (OOP) principles.",
+    "Demonstrate understanding of structured programming elements: branches, loops, arrays, pointers, functions, file I/O, and structures.",
+    "Demonstrate understanding of OOP elements: classes, inheritance, composition, polymorphism, exception handling, and templates.",
+    "Implement solutions using encapsulation and data-hiding principles."
+  ],
+  "chapters": [
+    {
+      "id": "unit-1",
+      "title": "Unit 1: Introduction to C++ and Structured Programming",
+      "topics": [
+        { "id": "u1-t1", "title": "Topic 1: Introduction to C++" },
+        { "id": "u1-t2", "title": "Topic 2: Variables, I/O, and Branches" },
+        { "id": "u1-t3", "title": "Topic 3: Loops and Arrays" }
+      ]
+    },
+    {
+      "id": "unit-2",
+      "title": "Unit 2: Functions and File I/O",
+      "topics": [
+        { "id": "u2-t1", "title": "Topic 4: Functions and Parameters" },
+        { "id": "u2-t2", "title": "Topic 5: Streams and File Input/Output" },
+        { "id": "u2-t3", "title": "Topic 6: C++ Structures" }
+      ]
+    },
+    {
+      "id": "unit-3",
+      "title": "Unit 3: Pointers and Dynamic Memory",
+      "topics": [
+        { "id": "u3-t1", "title": "Topic 7: Pointers (I)" },
+        { "id": "u3-t2", "title": "Topic 8: Classes with Dynamic Variables" },
+        {
+          "id": "u3-t3",
+          "title": "Topic 9: Operator Overloading and Object Composition"
+        }
+      ]
+    },
+    {
+      "id": "unit-4",
+      "title": "Unit 4: Object-Oriented Programming Concepts",
+      "topics": [
+        { "id": "u4-t1", "title": "Topic 10: Inheritance" },
+        { "id": "u4-t2", "title": "Topic 11: Polymorphism" },
+        { "id": "u4-t3", "title": "Topic 12: Templates" },
+        { "id": "u4-t4", "title": "Topic 13: Exceptions" }
+      ]
+    }
+  ]
+}
